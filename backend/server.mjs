@@ -144,7 +144,7 @@ app.post('/delete-user', async (req, res) => {
 // Function to get access token
 const getAccessToken = async () => {
     try {
-        const response = await fetch('http://localhost:5000/get-access-token', {
+        const response = await fetch('https://project-ten-wheat.vercel.app/get-access-token', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
