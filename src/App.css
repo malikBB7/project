@@ -1,0 +1,19 @@
+/* src/App.css */
+
+/* img {
+  max-width: 100%;
+  height: auto;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh; 
+  background-image: url('./assets/BackGround.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+} */
+
+body {
+  background-color:white;
+}
